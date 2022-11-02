@@ -1,0 +1,8 @@
+.delete_item{
+    background-color: white;
+    color: rgb(1, 152, 160);
+    border-radius: 70px;
+}
+.delete_item:hover{
+ color: red;
+}
